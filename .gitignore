@@ -1,0 +1,6 @@
+# Ignore IDE-specific files and temporary files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.log
